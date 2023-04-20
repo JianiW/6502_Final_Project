@@ -172,5 +172,5 @@ Some important takeaways from the TF-IDF test are:<br>
 <br>
 3. "Economic" is one of the most frequently mentioned words in the low-confidence statements from the mitigation sector, indicating the IPCC's concerns and uncertainty towards the economic impact of different mitigation strategies.<br>
 
-## **Conclusionn**
+## **Conclusion**
 This study aims to offer an analysis of the linguistic tone found within the IPCC's sixth assessment report on emission mitigation pathways and sector-specific discussions. The findings have implications for researchers seeking to understand the report's key themes and the optimistic attitudes of the IPCC towards climate change. It should be noted that further data cleaning is necessary to draw nuanced conclusions about the linguistic tone used across different sectors and technologies. Nevertheless, this study provides a solid foundation and introduction for interested audiences.

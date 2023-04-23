@@ -140,7 +140,7 @@ All sections receive an overall score of 1 indicating that the IPCC's report is 
 Cross-row comparison shows that the Mitigation and Summary for Policymaker sections have the highest scores across all confidence levels, indicating a consistently positive sentiment in those sections. The result is the same as the rank of the number of high confidence count. <br>
 <br>
 
-### **TF-DIF Test**
+### **TF-IDF Test**
 The chart below provides the top five words mentioned with high, medium, and low confidence levels in different sections, excluding interfering words. Interfering words are defined here as any words that do not provide specific information for the given chapter. This is a manual revision process used to select the top 5 words with the most mentions by confidence level. Digits, units, overarching terms (e.g., words like climate, change, confidence, and 'year' that do not provide detailed information for the audience to understand the content of the reports) are excluded. Therefore, the following chart might be biased depending on the audience group. In this study, we are primarily interested in understanding the linguistic tones for the mitigation pathways and technology.<br>
 
 > #### *Top 5 words mentioned by confidence level (Excluding interfering words)*
